@@ -1,6 +1,7 @@
 # 🚀 Flutter Layout Demo - Yamaha YZF-R6 Preview App
 
-![preview](https://github.com/user-attachments/assets/0b99761c-8599-4b60-9ca9-a4528f79e6bf)
+![preview](https://github.com/user-attachments/assets/54009d86-3fca-4412-9990-fc12bde4b886)
+
 
 
 ## 📱 Features
